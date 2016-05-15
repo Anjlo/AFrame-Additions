@@ -24,4 +24,6 @@ Dragable:
 
 'off' (Set on which button to stop dragging. Used in demo: 'mouseup')
 
-'color' (Set color on click. Use in demo: 'orange')
+'color' (Set color on an entity on click. Used in demo: 'beige')
+
+'color2' (set color on a dynamic-body entity. Used in demo: 'orange') dynamic-body is used in conjunction with donmccurdy's Aframe-Extras physics component.
