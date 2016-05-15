@@ -26,4 +26,4 @@ Dragable:
 
 'color' (Set color on an entity on click. Used in demo: 'beige')
 
-'color2' (set color on a dynamic-body entity. Used in demo: 'orange') dynamic-body is used in conjunction with donmccurdy's Aframe-Extras physics component.
+'color2' (set color on a dynamic-body entity. Used in demo: 'orange') dynamic-body is used in conjunction with @donmccurdy 's Aframe-Extras physics component. Found at https://github.com/donmccurdy/aframe-extras
