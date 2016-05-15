@@ -16,12 +16,12 @@ Use component 'dragable' to set dragable entities.
 
 Append: 
 
-'on' (Set on which button to start appending. Used in demo 'mousedown')
+'on' (Set on which button to start appending. Used in demo: 'mousedown')
 
 Dragable:
 
-'on' (Set on which button to start dragging. Used in demo 'mousedown')
+'on' (Set on which button to start dragging. Used in demo: 'mousedown')
 
-'off' (Set on which button to stop dragging. Used in demo 'mouseup')
+'off' (Set on which button to stop dragging. Used in demo: 'mouseup')
 
-'color' (Set color on click)
+'color' (Set color on click. Use in demo: 'orange')
